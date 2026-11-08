@@ -1,0 +1,4 @@
+# Versions were not locked in the supplied research archive.
+numpy
+matplotlib
+gurobipy

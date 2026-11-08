@@ -1,0 +1,5 @@
+printer,item,f_k_yuan,c_k_yuan_per_kg,H_k,rho_vol,v_k,alpha_k,sigma_k,rho_wait_yuan_per_unit
+Print_Birmingham_Form4B,Respiratory_Circuit_Connector,120000,1600,1.5,1100,0.4,0.12,0.1,900
+Print_Leeds_Form4B,Respiratory_Circuit_Connector,120000,1600,1.5,1100,0.4,0.12,0.1,900
+Print_Exeter_Form4B,Respiratory_Circuit_Connector,120000,1600,1.5,1100,0.4,0.12,0.1,900
+Print_London_Form4B,Respiratory_Circuit_Connector,120000,1600,1.5,1100,0.4,0.12,0.1,900

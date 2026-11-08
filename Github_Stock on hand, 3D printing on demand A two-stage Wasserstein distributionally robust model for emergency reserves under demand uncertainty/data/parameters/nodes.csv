@@ -1,0 +1,12 @@
+node,node_type,longitude,latitude,notes
+GBR_North_Yorkshire,admin2,-1.43243,54.33901,country=United Kingdom; coord_proxy=Northallerton; coord_source=Google Maps search; selected_by=top_frequency; frequency=8
+GBR_Herefordshire_and_Worcestershire,admin2,-2.22001,52.18935,country=United Kingdom; coord_proxy=Worcester; coord_source=Google Maps search; selected_by=top_frequency; frequency=6
+GBR_West_Yorkshire,admin2,-1.54912,53.80076,country=United Kingdom; coord_proxy=Leeds; coord_source=Google Maps search; selected_by=top_frequency; frequency=5
+GBR_Devon,admin2,-3.52751,50.72360,country=United Kingdom; coord_proxy=Exeter; coord_source=Google Maps search; selected_by=top_frequency; frequency=5
+GBR_Kent,admin2,0.51667,51.26667,country=United Kingdom; coord_proxy=Maidstone; coord_source=Google Maps search; selected_by=top_frequency; frequency=5
+GBR_Lincolnshire,admin2,-0.54024,53.23069,country=United Kingdom; coord_proxy=Lincoln; coord_source=Google Maps search; selected_by=top_frequency; frequency=5
+GBR_Shropshire,admin2,-2.75251,52.70730,country=United Kingdom; coord_proxy=Shrewsbury; coord_source=Google Maps search; selected_by=top_frequency; frequency=5
+GBR_Gloucestershire,admin2,-2.24511,51.86421,country=United Kingdom; coord_proxy=Gloucester; coord_source=Google Maps search; selected_by=top_frequency; frequency=4
+GBR_Lancashire,admin2,-2.70309,53.76323,country=United Kingdom; coord_proxy=Preston; coord_source=Google Maps search; selected_by=top_frequency; frequency=4
+GBR_Grampian,admin2,-2.09428,57.14972,country=United Kingdom; coord_proxy=Aberdeen; coord_source=Google Maps search; selected_by=top_frequency; frequency=3
+GBR_OTHER,country_other,-1.89983,52.48142,country=United Kingdom; fallback node; coord_proxy=Birmingham; coord_source=Google Maps search

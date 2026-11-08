@@ -1,0 +1,13 @@
+scenario_name,policy,item,sum_xk,demand_total,shortage_units_total,aggregate_shortage_rate,aggregate_service_level,print_units_total,print_share_of_demand
+Combined medical emergency (moderate),Full 3D-enabled,Drinking_Water_3Day_Kit,4,486703.0,220036.0,0.45209501482423575,0.5479049851757642,0.0,0.0
+Combined medical emergency (moderate),No 3D,Drinking_Water_3Day_Kit,0,486703.0,220022.0,0.4520662498484702,0.5479337501515298,0.0,0.0
+Combined medical emergency (moderate),Full 3D-enabled,Family_Tent,4,13316.0,13316.0,1.0,0.0,0.0,0.0
+Combined medical emergency (moderate),No 3D,Family_Tent,0,13316.0,13316.0,1.0,0.0,0.0,0.0
+Combined medical emergency (moderate),Full 3D-enabled,Respiratory_Circuit_Connector,4,2560.0,1829.2,0.7145312500000001,0.2854687499999999,730.8,0.28546875
+Combined medical emergency (moderate),No 3D,Respiratory_Circuit_Connector,0,2560.0,1296.0,0.50625,0.49375,0.0,0.0
+Combined medical emergency (severe),Full 3D-enabled,Drinking_Water_3Day_Kit,18,486703.0,220120.0,0.45226760467882876,0.5477323953211712,0.0,0.0
+Combined medical emergency (severe),No 3D,Drinking_Water_3Day_Kit,0,486703.0,256689.0,0.5274037760194615,0.47259622398053847,0.0,0.0
+Combined medical emergency (severe),Full 3D-enabled,Family_Tent,18,13316.0,13316.0,1.0,0.0,0.0,0.0
+Combined medical emergency (severe),No 3D,Family_Tent,0,13316.0,13316.0,1.0,0.0,0.0,0.0
+Combined medical emergency (severe),Full 3D-enabled,Respiratory_Circuit_Connector,18,5120.0,2881.6,0.5628124999999999,0.4371875,2238.4,0.4371875
+Combined medical emergency (severe),No 3D,Respiratory_Circuit_Connector,0,5120.0,2900.0,0.56640625,0.43359375,0.0,0.0

@@ -1,0 +1,5 @@
+scenario_name,policy,sum_xk,mean_total_M,aggregate_shortage_rate,mean_service_level
+Combined medical emergency (moderate),Full 3D-enabled,4,199.64317058463428,0.46794872049966274,0.9542473830279655
+Combined medical emergency (moderate),No 3D,0,191.37605023629627,0.4668599364478022,0.9544865624673167
+Combined medical emergency (severe),Full 3D-enabled,18,265.6939393865718,0.4678268753748968,0.9547676728464604
+Combined medical emergency (severe),No 3D,0,290.88748316629625,0.5402572361270858,0.9508831157747687
